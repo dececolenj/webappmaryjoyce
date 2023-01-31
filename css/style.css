@@ -1,3 +1,6 @@
+p {
+    text-align: justify;
+}
 #menu {
 	background: #F8FFF0;
 	background: linear-gradient(to bottom,  #1FCC41,  #A50AFF);
